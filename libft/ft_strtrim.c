@@ -6,11 +6,12 @@
 /*   By: aricholm <aricholm@student.42wolfsburg.de> +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/05/16 21:20:04 by aricholm          #+#    #+#             */
-/*   Updated: 2021/06/10 13:15:13 by aricholm         ###   ########.fr       */
+/*   Updated: 2021/12/14 10:09:55 by aricholm         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
+
 static char	ft_isset(char c, char const *set)
 {
 	char	*ptr;

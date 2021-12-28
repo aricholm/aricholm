@@ -6,11 +6,12 @@
 /*   By: aricholm <aricholm@student.42wolfsburg.de> +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/05/16 20:49:44 by aricholm          #+#    #+#             */
-/*   Updated: 2021/06/08 11:45:41 by aricholm         ###   ########.fr       */
+/*   Updated: 2021/12/14 10:09:32 by aricholm         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
+
 char	*ft_strdup(const char *s)
 {
 	char	*ptr;

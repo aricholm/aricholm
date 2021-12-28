@@ -6,11 +6,12 @@
 /*   By: aricholm <aricholm@student.42wolfsburg.de> +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/05/12 18:43:43 by aricholm          #+#    #+#             */
-/*   Updated: 2021/06/10 12:58:46 by aricholm         ###   ########.fr       */
+/*   Updated: 2021/12/14 10:09:51 by aricholm         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
+
 char	*ft_strnstr(const char	*big, const char *smol, size_t len)
 {
 	size_t	i;

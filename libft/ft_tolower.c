@@ -6,11 +6,12 @@
 /*   By: aricholm <aricholm@student.42wolfsburg.de> +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/05/16 21:39:36 by aricholm          #+#    #+#             */
-/*   Updated: 2021/05/16 21:40:02 by aricholm         ###   ########.fr       */
+/*   Updated: 2021/12/14 10:10:00 by aricholm         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
+
 int	ft_tolower(int c)
 {
 	if (c >= 'A' && c <= 'Z')

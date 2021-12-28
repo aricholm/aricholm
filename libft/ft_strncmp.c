@@ -6,11 +6,12 @@
 /*   By: aricholm <aricholm@student.42wolfsburg.de> +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/05/16 21:01:38 by aricholm          #+#    #+#             */
-/*   Updated: 2021/06/10 13:06:45 by aricholm         ###   ########.fr       */
+/*   Updated: 2021/12/14 10:09:48 by aricholm         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
+
 int	ft_strncmp(const char *str1, const char *str2, size_t n)
 {
 	size_t			i;

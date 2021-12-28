@@ -6,11 +6,12 @@
 /*   By: aricholm <aricholm@student.42wolfsburg.de> +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/05/14 10:10:23 by aricholm          #+#    #+#             */
-/*   Updated: 2021/06/04 13:46:39 by aricholm         ###   ########.fr       */
+/*   Updated: 2021/12/14 10:09:58 by aricholm         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
+
 char	*ft_substr(char const *s, unsigned int start, size_t len)
 {
 	size_t	i;

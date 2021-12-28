@@ -6,11 +6,12 @@
 /*   By: aricholm <aricholm@student.42wolfsburg.de> +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/05/16 20:59:51 by aricholm          #+#    #+#             */
-/*   Updated: 2021/05/18 14:10:34 by aricholm         ###   ########.fr       */
+/*   Updated: 2021/12/14 10:09:39 by aricholm         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
+
 size_t	ft_strlcat(char *dst, const char *src, size_t size)
 {
 	size_t	i;

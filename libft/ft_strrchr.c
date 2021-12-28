@@ -6,11 +6,12 @@
 /*   By: aricholm <aricholm@student.42wolfsburg.de> +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/05/12 18:34:19 by aricholm          #+#    #+#             */
-/*   Updated: 2021/05/12 18:41:22 by aricholm         ###   ########.fr       */
+/*   Updated: 2021/12/14 10:09:53 by aricholm         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
+
 char	*ft_strrchr(const char *s, int c)
 {
 	int	i;

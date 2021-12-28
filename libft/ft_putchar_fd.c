@@ -6,11 +6,12 @@
 /*   By: aricholm <aricholm@student.42wolfsburg.de> +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/05/16 21:48:08 by aricholm          #+#    #+#             */
-/*   Updated: 2021/06/18 20:14:57 by aricholm         ###   ########.fr       */
+/*   Updated: 2021/12/14 10:08:26 by aricholm         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
+
 void	ft_putchar_fd(char c, int fd)
 {
 	write(fd, &c, 1);

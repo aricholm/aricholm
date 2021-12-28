@@ -6,12 +6,11 @@
 /*   By: aricholm <aricholm@student.42wolfsburg.de> +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/05/16 19:52:57 by aricholm          #+#    #+#             */
-/*   Updated: 2021/06/04 14:00:01 by aricholm         ###   ########.fr       */
+/*   Updated: 2021/12/14 10:02:56 by aricholm         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
-#include <stdio.h>
 
 static size_t	ft_ilen(int n)
 {

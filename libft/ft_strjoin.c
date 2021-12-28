@@ -6,11 +6,12 @@
 /*   By: aricholm <aricholm@student.42wolfsburg.de> +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/05/16 21:18:40 by aricholm          #+#    #+#             */
-/*   Updated: 2021/06/04 13:49:37 by aricholm         ###   ########.fr       */
+/*   Updated: 2021/12/14 10:09:36 by aricholm         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
+
 char	*ft_strjoin(char const *s1, char const *s2)
 {
 	char	*dst;
